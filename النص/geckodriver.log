@@ -1,0 +1,279 @@
+1602523832508	geckodriver	INFO	Listening on 127.0.0.1:56732
+1602523835549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofileHRYA2I"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602523841849	Marionette	INFO	Listening on port 56740
+1602523841923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1602524209233	Marionette	INFO	Stopped listening on port 56740
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602524593627	geckodriver	INFO	Listening on 127.0.0.1:57586
+1602524596662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofile6J4ZZR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602524604986	Marionette	INFO	Listening on port 57594
+1602524605171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1602524845141	Marionette	INFO	Stopped listening on port 57594
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile1pBzIL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602524777758	Marionette	INFO	Listening on port 57790
+1602524778255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.38b1b88cc3.min.js?xv=1.1.1-576, line 1: TypeError: e is undefined
+1602524842840	Marionette	INFO	Stopped listening on port 57790
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602524887392	geckodriver	INFO	Listening on 127.0.0.1:57919
+1602524890432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofilejBZGQQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602524897749	Marionette	INFO	Listening on port 57927
+1602524897900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602524898094	Marionette	INFO	Stopped listening on port 57927
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 198: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 144: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.warn: services.settings: Error retrieving the getLastModified timestamp from blocklists/plugins RemoteSettingsClient Message: Error: IndexedDB: blocklists/plugins getLastModified() IndexedDB:  execute() The application is shutting down
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602524996927	geckodriver	INFO	Listening on 127.0.0.1:57954
+1602524999962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofile2tFSrr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602525006716	Marionette	INFO	Listening on port 57962
+1602525006898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+1602525032012	Marionette	INFO	Stopped listening on port 57962
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602588499576	geckodriver	INFO	Listening on 127.0.0.1:58772
+1602588502805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofiley0CM1j"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602588509289	Marionette	INFO	Listening on port 58780
+1602588509370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1602588612616	Marionette	INFO	Stopped listening on port 58780
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileDpYwRl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602588605065	Marionette	INFO	Listening on port 58956
+1602588605452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602588633467	Marionette	INFO	Stopped listening on port 58956
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602588687967	geckodriver	INFO	Listening on 127.0.0.1:59054
+1602588691001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofileC0K0gf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602588696680	Marionette	INFO	Listening on port 59062
+1602588696850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: e is undefined
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+1602590155640	Marionette	INFO	Stopped listening on port 59062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602590664666	geckodriver	INFO	Listening on 127.0.0.1:60226
+1602590667761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofileIW5hZm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602590677463	Marionette	INFO	Listening on port 60237
+1602590677926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602590702395	Marionette	INFO	Stopped listening on port 60237
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602591123140	geckodriver	INFO	Listening on 127.0.0.1:60370
+1602591126151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofileqjGvkB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602591133173	Marionette	INFO	Listening on port 60378
+1602591133646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: undefined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[Parent 11168, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602591201456	Marionette	INFO	Stopped listening on port 60378
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602591215006	geckodriver	INFO	Listening on 127.0.0.1:60615
+1602591218011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofileHIgwyu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602591224255	Marionette	INFO	Listening on port 60634
+1602591224324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+1602592546147	Marionette	INFO	Stopped listening on port 60634
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602602756291	geckodriver	INFO	Listening on 127.0.0.1:62327
+1602602759405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofileEn6sSt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602602767921	Marionette	INFO	Listening on port 62335
+1602602768007	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/student_tp.512340349a.min.js?xv=1.1.1-577, line 1: TypeError: this.lesson.activity is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+JavaScript error: https://static.typingclub.com/m/build/student_tp/games~student_common~typing.1ae2406f92.min.js, line 1: TypeError: this.$hands[0].getSVGDocument() is null
+1602603301570	Marionette	INFO	Stopped listening on port 62335
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602610092882	geckodriver	INFO	Listening on 127.0.0.1:63610
+1602610095887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofilevfYszm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602610103577	Marionette	INFO	Listening on port 63618
+1602610103920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.pub.network/typingclub2-com/pubfig.min.js?_=1602610120109, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/typingclub2-com/pubfig.min.js?_=1602610129869, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/typingclub2-com/pubfig.min.js?_=1602610133031, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/typingclub2-com/pubfig.min.js?_=1602610145242, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/typingclub2-com/pubfig.min.js?_=1602610148556, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/typingclub2-com/pubfig.min.js?_=1602610157818, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/typingclub2-com/pubfig.min.js?_=1602610160989, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/typingclub2-com/pubfig.min.js?_=1602610164159, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/typingclub2-com/pubfig.min.js?_=1602610168581, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/typingclub2-com/pubfig.min.js?_=1602610175242, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1602610183191	Marionette	INFO	Stopped listening on port 63618
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604917050317	geckodriver	INFO	Listening on 127.0.0.1:58013
+1604917053354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ansas\\AppData\\Local\\Temp\\rust_mozprofileN2XR5O"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604917059694	Marionette	INFO	Listening on port 58021
+1604917059779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604917094300	Marionette	INFO	Stopped listening on port 58021
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
