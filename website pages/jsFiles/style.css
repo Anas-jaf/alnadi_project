@@ -1,0 +1,39 @@
+
+body {
+
+    text-align:  center;
+    background-color: forestgreen;
+}
+
+
+.cursor {
+
+background-color: aqua;
+
+}
+
+
+
+.done {
+
+    color: gray;
+}
+
+#typing {
+    margin: 0 auto ;
+    width: 300px;
+    font-size: x-large;
+}
+
+.hidden{
+    display: none ;
+}
+
+.wrong{
+    color:red
+    
+}
+
+.fixed{
+    color:  yellow
+}

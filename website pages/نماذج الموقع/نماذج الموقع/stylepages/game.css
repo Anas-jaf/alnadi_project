@@ -1,0 +1,99 @@
+/* * {
+    background: #000 !important;
+    color: #0f0 !important;
+    outline: solid #f00 1px !important;
+  } */
+html,
+body{
+    margin :0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+:root{
+    --main-color: #ffffff;
+    --elements :#0d0d0d;
+    --hamburger :#5293e2;
+    --special-elements: #848484;
+
+}
+
+.footer{
+    background-color: var(--elements);
+    height: 70px;
+    width: 100vw;
+    display: flex;
+    padding-left: 2em;
+    align-items: stretch;
+    flex-direction: row;
+}
+
+.images > svg{
+    fill: var(--main-color);
+    width: 50px; 
+    height :50px;
+    padding : 10px 10px 0 10px ;
+}
+
+.title {
+    display: flex;
+    flex-direction: row-reverse;
+    color: var(--main-color);
+    position:absolute;
+    right: 0px;
+    padding-top: 12px;
+    padding-right: 21px;
+    padding-left: 27px;
+    fill: var(--main-color);
+}
+
+.title >svg {
+    padding-right: 21px;
+    padding-left: 27px;
+    fill: var(--main-color); 
+}
+
+.title > p{
+    margin-top: 10px;
+}
+
+.practiceText{
+    margin-top: 6em;
+    margin-bottom: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 221px;
+    /* max-height: 221px;  */
+    border: 3px solid #73AD21;
+    padding: 10px;
+    line-height: 2.5em;
+    /* height: 17em;  */
+    resize: none;
+    overflow :hidden;  
+    text-overflow: ellipsis;
+    box-sizing: border-box;
+
+}
+
+.practiceText > span{
+    font-size: 50px;
+    
+} 
+
+.keyboard{
+    position: relative;
+    
+    border-style: solid;
+    height: 165px;
+    width:  60%;
+    padding-right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    bottom: 1px;
+
+}
+

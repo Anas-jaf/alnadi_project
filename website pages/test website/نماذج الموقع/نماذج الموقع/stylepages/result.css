@@ -1,0 +1,175 @@
+html,
+body{
+    margin :0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+:root{
+    --main-color: #ffffff;
+    --elements :#0d0d0d;
+    --hamburger :#5293e2;
+    --special-elements: #848484;
+    --stars-background:#3d5e87;
+}
+
+.footer{
+    background-color: var(--elements);
+    height: 70px;
+    width: 100vw;
+    display: flex;
+    padding-left: 2em;
+    align-items: stretch;
+    flex-direction: row;
+}
+
+
+.title {
+    display: flex;
+    flex-direction: row-reverse;
+    color: var(--main-color);
+    position:absolute;
+    right: 0px;
+    padding-top: 12px;
+    padding-right: 21px;
+    padding-left: 27px;
+    fill: var(--main-color);
+}
+
+
+.title >svg {
+    padding-right: 21px;
+    padding-left: 27px;
+    fill: var(--main-color); 
+}
+
+.title > p{
+    margin-top: 10px;
+}
+
+
+.section1{
+  height: 70%;
+  background-color: var(--stars-background);  
+}
+
+.stars{
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+svg.bi {
+    height: 100px;
+    width: 100px;
+    fill:#ffb32f ;
+
+}
+   
+.bi.bi-star-fill {
+	margin: 5em 10px 10px 10px;
+}
+
+.statistics{
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.statistics div{
+    color: white;
+    margin: 40px 80px 10px 30px;
+    font-size: x-large;
+    
+}
+
+.section2{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin-top: 3em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 90px;
+    
+}
+
+.section2 :nth-child(2){
+    text-align: center;   
+    align-self: center;
+}
+
+.section2> .continue{
+    position: absolute;
+    top: 35px;
+    right: 20px;
+    font-size: 35px;
+    line-height: 10px;
+    display: table-cell; 
+    vertical-align: middle;
+
+}
+
+.continue{
+    display: flex;
+    position: relative;
+}
+
+
+.continue >span{
+    position: absolute;
+    font-size: 35px;
+    /* vertical-align: middle; */
+   /* margin-bottom: 30px; */
+   /* display: inline-block; */
+   /* vertical-align: middle; */
+   /* line-height: normal; */
+   transform: translateY(-50%)
+} 
+
+
+.section2 >.tryAgain{
+    position:absolute;
+    top: 35px;
+    left: 20px;
+}
+
+
+/* Element | http://127.0.0.1:5500/resultpage.html */
+
+.continue > span:nth-child(1) {
+    width: 95px;
+    height: 73px;
+  }
+  
+  /* result.css | http://127.0.0.1:5500/stylepages/result.css?_cacheOverride=1609746547200 */
+  
+  .section2 > .continue {
+    /* font-size: 35px; */
+    /* line-height: 10px; */
+    /* display: table-cell; */
+    font-size: 60px;
+  }
+  
+  .continue > span {
+    /* font-size: 35px; */
+    font-size: 69px;
+  }
+  
+  /* Element | http://127.0.0.1:5500/resultpage.html */
+  
+  .continue {
+    width: 116px;
+    height: 37px;
+  }
+  
+.continue > span:nth-child(1) {
+    width: 0px;
+    height: 29px;
+    right: 84px;
+}

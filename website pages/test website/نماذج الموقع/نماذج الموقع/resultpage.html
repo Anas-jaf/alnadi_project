@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="stylepages/result.css">
+  <title>result</title>
+
+</head>
+
+<body>
+  <!-- Emmet snippit
+         (footer>svg+span)+(section.section1>div.stars+div.statistics>(div.speed>span*2)+(div.time>span*2)+(div.accuracey>span*2))+section.section2>button+span -->
+
+  <footer class="footer">
+    <div class="title">
+      <svg viewBox="0 0 100 80" width="40" height="40">
+        <rect width="100" height="20"></rect>
+        <rect y="30" width="100" height="20"></rect>
+        <rect y="60" width="100" height="20"></rect>
+      </svg>
+      <p>رقم الدرس : عنوان الدرس</p>
+    </div>
+
+  </footer>
+
+  <section class="section1">
+    <div class="stars">
+
+      <!--  -->
+      <svg style="fill:blue " xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+        class="bi bi-star-fill" viewBox="0 0 16 16" filter="url(#innershadow)" fill="tan">
+        <defs>
+          <filter id="innershadow" x0="-50%" y0="-50%" width="200%" height="200%">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur"></feGaussianBlur>
+            <feOffset dy="2" dx="3"></feOffset>
+            <feComposite in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowDiff"></feComposite>
+
+            <feComposite in2="shadowDiff" operator="in"></feComposite>
+            <feComposite in2="SourceGraphic" operator="over" result="firstfilter"></feComposite>
+
+
+            <feGaussianBlur in="firstfilter" stdDeviation="3" result="blur2"></feGaussianBlur>
+            <feOffset dy="-2" dx="-3"></feOffset>
+            <feComposite in2="firstfilter" operator="arithmetic" k2="-1" k3="1" result="shadowDiff"></feComposite>
+
+            <feFlood flood-color="#444444" flood-opacity="0.75"></feFlood>
+            <feComposite in2="shadowDiff" operator="in"></feComposite>
+            <feComposite in2="firstfilter" operator="over"></feComposite>
+          </filter>
+        </defs>
+        <path
+          d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+      </svg>
+
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill"
+        viewBox="0 0 16 16">
+        <path
+          d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+      </svg>
+
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill"
+        viewBox="0 0 16 16">
+        <path
+          d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+      </svg>
+
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill"
+        viewBox="0 0 16 16">
+        <path
+          d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+      </svg>
+
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill"
+        viewBox="0 0 16 16">
+        <path
+          d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+      </svg>
+    </div>
+    <div class="statistics">
+      <div class="speed">
+        <span>السرعة :</span>
+        <span>20 ك/د</span>
+      </div>
+
+      <div class="time">
+        <span>الوقت :</span>
+        <span>1:30</span>
+      </div>
+      <div class="accuracey">
+        <span>الدقة :</span>&nbsp;
+        <span>%80</span>
+      </div>
+    </div>
+  </section>
+  <section class="section2">
+    <button class="tryAgain">
+      <span>حاول مجددا</span>
+    </button>
+    <span>
+      ركز على الدقة اولى ثم ابنى سرعتك . لا تريد ان تقع في الكثير من الاخطاء
+    </span>
+    <button type="button" class="continue" >
+      <span>→</span>
+    </button>
+  </section>
+</body>
+
+</html>

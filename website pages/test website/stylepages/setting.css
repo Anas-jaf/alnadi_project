@@ -1,0 +1,109 @@
+html,
+body{
+    margin :0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: var(--background-color2);
+}
+
+
+:root{
+    --footer : #154e78;
+    --footer-font:#ffffff;
+    --main-font-color:#000000 ;
+    --background-color: rgba(55,167,248,1);
+    --background-color2:#f4f4f4;
+    --font-color : #555555;
+    --font-color2:#536570;
+}
+
+
+footer{
+    display: flex;
+    background-color: var(--footer);
+    height: 70px;
+    width: 100vw;
+}
+
+footer div{
+    display:  flex;
+    flex-direction: row-reverse;
+    margin-left: 4em;
+    padding-right: 10px;
+}
+
+
+#circle {
+    width: 40px;
+    height: 50px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background: white;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+
+  .footerRight{
+      margin-left: auto;
+      align-items: center;
+}
+
+.footerRight> p{
+    padding: 10px 10px 0 10px;
+    font-size: large;
+    color: var(--footer-font);
+}
+
+
+
+.section2 {
+    display: flex;
+    flex-direction: column;
+    direction: rtl;
+    float: right;
+    margin-top: 2em;
+    margin-right: 2em;
+    margin-left: 2em;
+    background-color: var(--footer-font);
+    width: 40%;
+    padding: 2em 3em 2em 0 ;
+}
+
+.section2 > div:nth-child(1) > span:nth-child(2) {
+    font-size: large;
+    color: #536570;
+    border-style: solid;
+    border: 1px;
+    padding: 8px;
+    border-radius: 5px;
+}
+ 
+
+.section2 > div:nth-child(2) > span:nth-child(3) {
+    flex-grow: 1;
+    color: white;
+    background: var(--background-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    border-radius: 10px;
+    margin: 10px 10px 10px 0;
+}
+.bi {
+    /*! align-items: center; *//*! justify-content: center; */display: flex;
+    align-self: center;
+    fill: var(--font-color2);
+   }
+   
+   .section2 > div:nth-child(2) {
+    display: flex;
+    flex-direction: row;
+    background-color: #f4f4f4;
+    /*! margin: ; */margin-left: 1em;
+    border-radius: 10px;
+   }
+   

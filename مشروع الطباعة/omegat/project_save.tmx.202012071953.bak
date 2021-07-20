@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="paragraph" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>A.W.  Hawaii  Wind  is  a  Texas  company.  , It  is  proposing  two  offshore  floating  , wind  farms.  Each  would  consist  of  50  , turbines  that  would  generate  about  400  , megawatts  of  energy.  The  wind  farms  , would  be  placed  more  than  10  miles  , offshore.  They  would  float  in  waters  , about  a  half  a  mile  deep.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T114307Z" creationid="ansas" creationdate="20201206T114307Z">
+        <seg>ه.ر هاواي للرياح هي شركة في  تكساس. ، وهي تقترح مزرعتين رياح عائمين في البحر. يتألف كل منها من 50 توربينة تولد حوالي 400 ميغاواط من الطاقة. سيتم وضع مزارع الرياح على بعد أكثر من 10 أميال ، بعيدًا عن الشاطئ. سوف تطفو في المياه ، على عمق حوالي نصف ميل.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Africa  is  the  second  largest  continent  , in  the  world  in  both  size  and  , population.  Madagascar  is  not  only  a  , popular  animated  comedy  film,  but  also  , the  largest  island  in  Africa.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T082955Z" creationid="ansas" creationdate="20201204T082955Z">
+        <seg>أفريقيا هي ثاني أكبر قارة في العالم من حيث الحجم وعدد السكان. مدغشقر ليست فقط فيلم رسوم متحركة كوميدي شهير ، ولكنها أيضًا أكبر جزيرة في إفريقيا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Air  is  the  clear  gas  which  living  , things  breathe.  It  has  no  color  or  , smell.  The  air  around  us  is  a  mixture  , of  many  gases  and  dust  particles.  It  , is  a  mixture  of  about  78%  nitrogen,  , 21%  oxygen,  0.9%  argon,  0.04%  carbon  , dioxide,  and  very  small  amounts  of  , other  gases.  There  is  also  an  average  , of  about  1%  water  vapor.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120900Z" creationid="ansas" creationdate="20201206T120900Z">
+        <seg>الهواء هو الغاز الصافي الذي تتنفسه الكائنات الحية. ليس لها لون أو رائحة. الهواء المحيط بنا عبارة عن خليط من العديد من الغازات وجزيئات الغبار. وهي عبارة عن مزيج من حوالي 78٪ نيتروجين ، و 21٪ أكسجين ، و 0.9٪ أرجون ، و 0.04٪ كربون ، وثاني أكسيد ، وكميات صغيرة جدًا من غازات أخرى. يوجد أيضًا متوسط بخار ماء يبلغ حوالي 1٪.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All  living  things  need  energy  to  live,  , and  energy  comes  from  food.  Plants  can  , not  eat  food  like  animals,  so  they  , must  get  their  energy  in  a  different  , way.  They  use  photosynthesis.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T083631Z" creationid="ansas" creationdate="20201204T083631Z">
+        <seg>تحتاج جميع الكائنات الحية إلى الطاقة لتعيش ، وتأتي الطاقة من الطعام. لا يمكن للنباتات أن تأكل طعامًا كالحيوانات ، لذلك يجب أن تحصل على طاقتها بطريقة مختلفة. و يستخدمون التمثيل الضوئي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Almost  fifty  amazing  wooden  churches  , stand  all  over  Slovakia,  a  small  , country  in  the  heart  of  Europe.  They  , are  all  wood  without  a  single  nail.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T082411Z" creationid="ansas" creationdate="20201204T082411Z">
+        <seg>ما يقرب من خمسين كنيسة خشبية رائعة ، منتشرة في جميع أنحاء سلوفاكيا ، وهي دولة صغيرة في قلب أوروبا. كلهم خشب بدون مسمار واحد.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An  adult  male  gorilla  is  called  a  , silverback  because  of  the  distinctive  , silvery  fur  growing  on  their  back  and  , hips.  Each  gorilla  family  has  a  , silverback  as  leader  who  scares  away  , other  animals  by  standing  on  their  , back  legs  and  beating  their  chest.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113428Z" creationid="ansas" creationdate="20201206T113428Z">
+        <seg>يُطلق على ذكر الغوريلا البالغ اسم الظهر الفضي بسبب الفراء الفضي المميز الذي ينمو على ظهره ووركيه. كل عائلة غوريلا لديها ظهر فضي كقائد يخيف ، الحيوانات أخرى بالوقوف على أرجلهم الخلفية وضرب صدورهم.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arts  and  crafts  have  a  long  history  in  , China.  Thousands  of  years  ago  the  , Chinese  were  some  of  the  first  people  , to  use  silk,  jade,  bronze,  wood,  and  , paper  to  make  art.  The  artistic  , writing  called  calligraphy  was  invented  , in  China.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T162031Z" creationid="ansas" creationdate="20201204T162031Z">
+        <seg>الفنون والحرف اليدوية لها تاريخ طويل في الصين. منذ آلاف السنين ، كان الصينيون من أوائل الأشخاص الذين استخدموا الحرير واليشم والبرونز والخشب والورق لصنع الفن. تم اختراع الكتابة الفنية التي تسمى الخط في الصين.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Astronomy  is  the  study  of  everything  , outside  the  atmosphere  of  the  Earth.  , It  studies  celestial  objects  such  as  , stars,  galaxies,  planets,  moons,  , asteroids,  comets  and  nebulae  and  , processes  such  as  supernovae  , explosions,  gamma  ray  bursts,  and  , cosmic  microwave  background  radiation.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113746Z" creationid="ansas" creationdate="20201206T113746Z">
+        <seg>علم الفلك هو دراسة كل شيء خارج الغلاف الجوي للأرض. ، يدرس الأجرام السماوية مثل النجوم والمجرات والكواكب والأقمار والكويكبات والمذنبات والسدم والعمليات مثل المستعرات الأعظمية والانفجارات وانفجارات أشعة جاما وإشعاع الخلفية الكونية الميكروي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A  famous  story  known  by  all  French  , citizens,  and  many  others  around  the  , world,  is  about  19  year  old  Joan  of  , Arc  during  the  Hundred  Years  War.  Due  , to  her  leadership  and  courage,  the  , French  army  won  many  battles.  However,  , Joan  was  eventually  captured  by  the  , Burgundians.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123710Z" creationid="ansas" creationdate="20201206T123710Z">
+        <seg>قصة مشهورة معروفة من قبل جميع الفرنسيين والمواطنين والعديد من الآخرين حول العالم ، تدور حول جوان أوف آرك البالغة من العمر 19 عامًا خلال حرب المائة عام. بفضل قيادتها وشجاعتها ، فاز الجيش الفرنسي بالعديد من المعارك. ومع ذلك ، تم القبض على جوان في النهاية من قبل البورغنديين.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A  hashtag,  written  with  a  #  symbol,  is  , used  to  index  keywords  or  topics  on  , Twitter.  This  function  was  created  on  , Twitter,  and  allows  people  to  easily  , follow  topics  they  are  interested  in.  , People  use  the  hashtag  symbol  (#)  , before  a  relevant  keyword  or  phrase  to  , categorize  their  Tweets  and  for  Twitter  , searches.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123255Z" creationid="ansas" creationdate="20201206T123255Z">
+        <seg>يتم استخدام علامة التصنيف ، المكتوبة برمز # ، لفهرسة الكلمات الرئيسية أو الموضوعات على تويتر . تم إنشاء هذه الوظيفة على تويتر ، وتسمح للأشخاص بمتابعة الموضوعات التي تهمهم بسهولة. ، يستخدم الأشخاص رمز الهاشتاج (#) ، قبل كلمة رئيسية أو عبارة ذات صلة ، لتصنيف تغريداتهم وعمليات البحث على تويتر .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A  hurricane  is  a  huge  storm.  It  can  , be  up  to  600  miles  across  and  have  , strong  winds  spiraling  inward  and  , upward  at  speeds  of  75  to  200  mph.  , Each  hurricane  usually  lasts  for  over  , a  week,  moving  10  to  20  miles  per  , hour  over  the  open  ocean.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T112715Z" creationid="ansas" creationdate="20201206T112715Z">
+        <seg>الإعصار عاصفة ضخمة. يمكن أن يصل عرضه إلى 600 ميل ويكون له رياح قوية تتصاعد نحو الداخل وتتصاعد بسرعة 75 إلى 200 ميل في الساعة. ، عادة ما يستمر كل إعصار لأكثر من أسبوع ، ويتحرك من 10 إلى 20 ميلاً في الساعة فوق المحيط المفتوح.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A  mention  (also  known  as  @replies  or  , tagging,  not  to  be  confused  with  , metadata  tags  or  hashtags  #)  is  a  , means  by  which  a  blog  post  references  , or  links  to  a  user  profile.  This  may  , be  done  as  a  matter  of  getting  the  , attention  of  (or  drawing  attention  to)  , another  user  of  a  social  networking  or  , blogging  service.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120529Z" creationid="ansas" creationdate="20201206T120529Z">
+        <seg>الإشارة (تُعرف أيضًا باسم @الردود  أو وضع علامات ، يجب عدم الخلط بينها ، علامات البيانات الوصفية أو علامات التجزئة #) هي وسيلة تشير من خلالها مشاركة المدونة إلى ملف تعريف المستخدم أو روابط إلى ملف تعريف المستخدم. قد يتم ذلك من أجل جذب انتباه (أو لفت الانتباه) مستخدم آخر لشبكة اجتماعية أو خدمة تدوين.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A  thousand  years  ago,  the  English  , language  did  not  put  spaces  between  , its  words.  It  made  writing  faster,  but  , readers  had  to  guess  where  each  word  , began.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T082635Z" creationid="ansas" creationdate="20201204T082635Z">
+        <seg>قبل ألف عام ، لم تضع اللغة الإنجليزية مسافات بين كلماتها. جعلت الكتابة أسرع ، ولكن كان على القراء أن يخمنوا أين تبدأ كل كلمة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A  train  is  a  connected  series  of  , vehicles  for  rail  transport  that  moves  , along  a  track  to  transport  cargo  or  , passengers  from  one  place  to  another.  , The  track  usually  consists  of  two  , rails,  but  might  also  be  a  monorail  or  , maglev  guideway.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113107Z" creationid="ansas" creationdate="20201206T113107Z">
+        <seg>القطار عبارة عن سلسلة متصلة من مركبات النقل بالسكك الحديدية التي تتحرك على طول مسار لنقل البضائع أو الركاب من مكان إلى آخر. يتكون المسار عادةً من قضيبين ، ولكن قد يكون أيضًا خطًا أحاديًا أو مسارًا مغناطيسيًا .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Benjamin  Franklin  carried  out  extensive  , electricity  research  in  the  18th  , century,  inventing  the  lightning  rod  , amongst  his  many  discoveries.  Lightning  , rods  protect  buildings  in  the  event  of  , lightning  by  conducting  lightning  , strikes  through  a  grounded  wire.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113155Z" creationid="ansas" creationdate="20201206T113155Z">
+        <seg>أجرى بنجامين فرانكلين بحثًا مكثفًا عن الكهرباء في القرن الثامن عشر ، مخترعًا مانع الصواعق ، من بين اكتشافاته العديدة. الصواعق ، تعمل قضبان الحماية على حماية المباني في حالة وقوع البرق عن طريق البرق عبر سلك مؤرض.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Books  are  the  quietest  and  most  , constant  of  friends;  they  are  the  most  , accessible  and  wisest  of  counselors,  , and  the  most  patient  of  teachers.  , Charles  William  Eliot</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T082831Z" creationid="ansas" creationdate="20201204T082831Z">
+        <seg>الكتب هي أهدأ الأصدقاء واثبتهم ؛ إنهم المستشارون الأكثر سهولة وحكمة يسهل الوصول إليهم  ، والأكثر صبرًا بين المعلمين. ، تشارلز ويليام إليوت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Canada  is  the  second  largest  country  , in  the  world  by  total  area  (Russia  is  , the  largest).  It  features  the  longest  , coastline  in  the  world,  stretching  , 202080  kilometers  (125570  miles).  , Canada  shares  the  longest  land  border  , in  the  world  with  the  United  States,  , totaling  8891  kilometers  (5525  miles).</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120643Z" creationid="ansas" creationdate="20201206T120643Z">
+        <seg>كندا هي ثاني أكبر دولة في العالم من حيث المساحة الكلية (روسيا هي الأكبر). تتميز بأطول خط ساحلي في العالم ، يمتد بطول 202080 كيلومترًا (125570 ميلاً). ، كندا تشترك في أطول حدود برية في العالم مع الولايات المتحدة ، بإجمالي 8891 كيلومترًا (5525 ميلاً).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cars  with  diesel  engines  tend  to  have  , better  fuel  economy,  which  means  they  , can  travel  further  on  a  single  tank  of  , gas.  The  drawback  is  that  diesel  , engines  emit  gases  called  oxides  of  , nitrogen,  which  pollute  the  , environment.  NOx  can  lead  to  acid  , rain,  smog,  and  ozone.  High  levels  of  , NOx  in  the  atmosphere  can  make  it  hard  , to  breathe.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174215Z" creationid="ansas" creationdate="20201207T174215Z">
+        <seg>تميل السيارات المزودة بمحركات ديزل إلى توفير أفضل للوقود ، مما يعني أنها تستطيع السفر لمسافة أبعد على خزان واحد من الغاز. العيب هو أن محركات الديزل تنبعث منها غازات تسمى أكاسيد النيتروجين التي تلوث البيئة. يمكن أن يؤدي أكاسيد النيتروجين إلى الحمض والمطر والضباب الدخاني والأوزون. المستويات العالية من أكاسيد النيتروجين في الغلاف الجوي يمكن أن تجعل التنفس صعبًا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chicago  is  the  largest  city  in  , Illinois.  It  is  the  third  largest  city  , in  the  United  States,  although  it  used  , to  be  the  second  largest.  Chicago  is  , next  to  Lake  Michigan,  one  of  the  five  , Great  Lakes.  In  the  2000  census,  , almost  2,900,000  people  lived  there,  , with  six  million  more  people  living  , nearby.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T114833Z" creationid="ansas" creationdate="20201206T114747Z">
+        <seg>شيكاغو هي أكبر مدينة في ولاية إلينوي. وهي ثالث أكبر مدينة في الولايات المتحدة ، على الرغم من    أنها كانت ثاني أكبر مدينة. ايضا مدينة شيكاغو ، تقع   بجوار بحيرة ميشيغان ، واحدة من خمس بحيرات عظيمة. في تعداد عام 2000 ، كان يعيش هناك ما يقرب من 2،900،000 شخص ، مع ستة ملايين شخص آخرين يعيشون في مكان قريب.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chocolate  comes  from  the  fruit  of  the  , cacao  tree  which  is  commonly  found  in  , the  deep  tropical  areas  of  the  , Americas.  The  most  commonly  found  type  , of  the  plant  first  came  from  the  , Amazon  basin.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T082243Z" creationid="ansas" creationdate="20201204T082243Z">
+        <seg>تأتي الشوكولاتة من ثمار شجرة الكاكاو التي توجد عادة في المناطق الاستوائية العميقة في الأمريكتين. النوع الأكثر شيوعا من النبات جاء أولا من حوض الأمازون.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coconuts  come  from  the  coconut  palm  , tree  which  grows  throughout  the  tropics  , and  subtropics.  The  coconut  palm  (Cocos  , nucifera)  can  grow  up  to  30  m  (98  ft)  , tall  and  the  leaf  fronds  can  grow  to  , be  4  to  6  m  (13.1  to  19.7  ft)  long.  , Coconut  milk  has  a  high  fat  content  of  , around  17%,  but  is  low  in  sugar.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123701Z" creationid="ansas" creationdate="20201206T123603Z">
+        <seg>يأتي جوز الهند من نخيل جوز الهند ، وهي شجرة تنمو في جميع أنحاء المناطق الاستوائية وشبه الاستوائية. يمكن أن يصل طول نخيل جوز الهند (كوكس، نكيفيرا) إلى 30 مترًا (98 قدمًا) ، و يمكن أن ينمو سعف الأوراق حتى يصل طولها إلى 4 إلى 6 أمتار (13.1 إلى 19.7 قدمًا). يحتوي حليب جوز الهند على نسبة عالية من الدهون تصل إلى حوالي 17٪ ، ولكنه منخفض السكر.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Costa  Rica  only  takes  up  0.03%  of  the  , surface  of  the  planet  but  holds  5%  of  , its  biodiversity!  There  are  over  130  , species  of  fish,  220  species  of  , reptiles,  1,000  species  of  butterflies,  , 9,000  species  of  plants,  20,000  species  , of  spiders,  and  34,000  species  of  , insects!  More  than  25%  of  Costa  Rican  , land  is  protected  national  parks  and  , refuges.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123708Z" creationid="ansas" creationdate="20201206T123708Z">
+        <seg>تستحوذ كوستاريكا على 0.03٪ فقط من سطح الكوكب ولكنها تمتلك 5٪ من تنوعها البيولوجي! هناك أكثر من 130 نوعًا من الأسماك و 220 نوعًا من الزواحف و 1000 نوع من الفراشات و 9000 نوع من النباتات و 20000 نوع من العناكب و 34000 نوع من الحشرات! أكثر من 25 ٪ من كوستاريكا ، والأراضي المحمية والمتنزهات الوطنية والملاجئ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cultural  diversity  is  having  different  , cultures  respect  each  others  , differences.  It  could  also  mean  the  , variety  of  human  societies  or  cultures  , in  a  specific  region,  or  in  the  world  , as  a  whole.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T085206Z" creationid="ansas" creationdate="20201204T085206Z">
+        <seg>التنوع الثقافي المختلف ، الثقافات تحترم بعضها البعض ، الاختلافات. قد يعني أيضًا تنوع المجتمعات أو الثقافات البشرية ، في منطقة معينة ، أو في العالم ككل.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently,  the  tallest  building  in  the  , world  is  the  Burj  Khalifa,  standing  at  , 829.8  m  (2,722  ft)  tall!  The  Burj  , Khalifa  is  located  in  Dubai,  United  , Arab  Emirates.  Previous  to  its  , completion,  the  tallest  building  in  the  , world  was  Taipei  101,  located  in  , Taipei,  Taiwan.  Taipei  101  is  509.2  m  , (1,671  ft)  tall.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T121013Z" creationid="ansas" creationdate="20201206T121013Z">
+        <seg>يعد برج خليفة حاليًا أطول مبنى في العالم ، حيث يبلغ ارتفاعه 829.8 مترًا (2،722 قدمًا)! يقع برج خليفة في دبي ، الإمارات العربية المتحدة. قبل اكتماله ، كان أطول مبنى في العالم هو تايبيه 101 ، التي تقع في تايبيه ، تايوان. يبلغ ارتفاع تايبيه 101 509.2 مترًا (1671 قدمًا).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dogs  were  the  first  animals  ever  to  be  , domesticated.  They  are  usually  playful,  , friendly,  and  listen  to  humans.  Thirty  , million  dogs  in  the  United  States  are  , registered  as  pets.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T082615Z" creationid="ansas" creationdate="20201204T082615Z">
+        <seg>كانت الكلاب أول الحيوانات التي تم تدجينها على الإطلاق. عادة ما تكون مرحة وودودة وتستمع إلى البشر. ثلاثون مليون كلب في الولايات المتحدة مسجلة كحيوانات أليفة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During  the  eclipse  of  2017,  the  Moon's  , shadow  raced  over  the  Earth's  surface  , at  more  than  2,000  miles  per  hour.  A  , roughly  65-mile-wide  zone,  called  the  , path  of  totality,  offered  the  best  , viewing.  Stars  and  planets  came  out,  , and  the  Sun's  corona  glowed  in  a  , perfect  circle  around  the  dark  side  of  , the  Moon.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T173738Z" creationid="ansas" creationdate="20201207T173738Z">
+        <seg>خلال كسوف عام 2017 ، تسابق ظل القمر فوق سطح الأرض بسرعة تزيد عن 2000 ميل في الساعة. عرضت المنطقة التي يبلغ عرضها 65 ميلًا تقريبًا ، والتي تسمى المسار الكلي ، أفضل عرض. ظهرت النجوم والكواكب ، وتوهج هالة الشمس في دائرة كاملة حول الجانب المظلم من القمر.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E2  is  equal  to  (m0c2)2  plus  (pc)2&lt;span class="_enter"&gt; &lt;br/&gt;, where&lt;span class="_enter"&gt; &lt;br/&gt;, #1  E  represents  the  energy  of  a  , particle&lt;span class="_enter"&gt; &lt;br/&gt;, #2  m0  represents  the  mass  of  the  , particle  when  it  is  not  moving&lt;span class="_enter"&gt; &lt;br/&gt;, #3  p  represents  the  momentum  of  the  , particle  when  it  is  moving&lt;span class="_enter"&gt; &lt;br/&gt;, #4  c  represents  the  speed  of  light.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120331Z" creationid="ansas" creationdate="20201206T120331Z">
+        <seg>ي2 تساوي (م0ك2) 2 زائد (ب س) 2 ، أين # ي1 يمثل طاقة الجسيم #2 م0 تمثل كتلة الجسيم عندما لا يتحرك # 3 ب تمثل زخم الجسيم عندما يتحرك  # 4 ج تمثل سرعة الضوء.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fathers  are  more  involved  in  their  , children's  lives  today  than  in  the  , past,  says  a  new  report  from  the  , American  Academy  of  Pediatrics.  It  , draws  on  census  data,  surveys,  and  , academic  research.  Among  the  findings,  , the  number  of  stay-at-home  dads  has  , increased  by  more  than  60%.  There  were  , 98,000  in  2003  and  159,000  in  2012,  , according  to  the  U.S.  Census.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174239Z" creationid="ansas" creationdate="20201207T174239Z">
+        <seg>يشير تقرير جديد صادر عن الأكاديمية الأمريكية لطب الأطفال إلى أن الآباء يشاركون في حياة أطفالهم اليوم أكثر مما كانوا عليه في الماضي. يعتمد على بيانات التعداد والمسوحات والبحث الأكاديمي. ومن بين النتائج ، زاد عدد الآباء المقيمين في المنزل بأكثر من 60٪. كان هناك 98000 في عام 2003 و 159000 في عام 2012 ، وفقًا لتعداد الولايات المتحدة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First  inhabited  more  than  10,000  years  , ago,  the  cultures  that  developed  in  , Mexico  became  one  of  the  cradles  of  , civilization.  During  the  300  year  rule  , by  the  Spanish,  Mexico  became  a  , crossroad  for  the  people  and  cultures  , of  Europe,  Africa,  and  Asia.  The  , government  of  Mexico  actively  promotes  , shared  cultural  traits  in  order  to  , create  a  national  identity.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174600Z" creationid="ansas" creationdate="20201207T174600Z">
+        <seg>سكنت لأول مرة أكثر من 10000 سنة ، منذ أن تطورت الثقافات في المكسيك ، أصبحت واحدة من مهد الحضارة. خلال حكم 300 عام ، أصبحت المكسيك على يد الأسبان ، مفترق طرق للشعوب والثقافات في أوروبا وأفريقيا وآسيا. تعمل حكومة المكسيك بنشاط على تعزيز السمات الثقافية المشتركة من أجل خلق هوية وطنية.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Food  allergies  are  fairly  common  , amongst  adults  and  even  more  so  among  , children.  Around  2%  of  adults  and  8%  , of  children  suffer  from  some  type  of  , food  allergy  where  the  immune  system  , makes  a  mistake  and  thinks  a  certain  , food  protein  is  dangerous  and  attacks  , it.  Common  food  allergies  are  to  , seafood  and  peanuts.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T173841Z" creationid="ansas" creationdate="20201207T173841Z">
+        <seg>الحساسية الغذائية شائعة إلى حد ما بين البالغين وحتى بين الأطفال. حوالي 2٪ من البالغين و 8٪ من الأطفال يعانون من نوع من الحساسية الغذائية حيث يقوم الجهاز المناعي بارتكاب خطأ ما ويعتقد أن البروتين الغذائي خطير ويهاجمه. الحساسية الغذائية الشائعة هي المأكولات البحرية والفول السوداني.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formal  education  is  usually  in  school,  , where  a  person  may  learn  basic,  , academic,  or  trade  skills.  Small  , children  often  attend  a  nursery  school  , or  kindergarten  but  often  formal  , education  begins  in  elementary  school  , and  continues  with  secondary  school.  , Post  secondary  education  (or  higher  , education)  is  usually  at  a  college  or  , university.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123719Z" creationid="ansas" creationdate="20201206T123719Z">
+        <seg>عادة ما يكون التعليم الرسمي في المدرسة ، حيث قد يتعلم الشخص المهارات الأساسية أو الأكاديمية أو التجارية. غالبًا ما يذهب الأطفال الصغار إلى حضانة أو روضة أطفال ولكن غالبًا ما تكون رسمية ، ويبدأ التعليم في المدرسة الابتدائية ويستمر مع المدرسة الثانوية. ، التعليم ما بعد الثانوي (أو التعليم العالي) عادة ما يكون في كلية أو جامعة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>France  is  the  birthplace  of  crepes.  On  , almost  every  street  corner  you  can  , find  a  small  kiosk  serving  crepes.  , There  are  savory  crepes  (such  as  with  , cheese  and  ham)  or  sweet  ones  (such  as  , with  chocolate  and  fruit).  The  aroma  , around  crepe  shops  is  so  good  that  it  , is  difficult  to  pass  by  without  , stopping  to  get  a  bite.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123317Z" creationid="ansas" creationdate="20201206T123317Z">
+        <seg>فرنسا هي مسقط رأس الكريب. في كل زاوية شارع تقريبًا يمكنك العثور على كشك صغير يقدم الكريب. يوجد الكريب المالح (مثل الجبن ولحم الخنزير) أو الحلويات (مثل الشوكولاتة والفاكهة). الرائحة ، حول محلات الكريب جيدة جدًا بحيث يصعب المرور بدونها ، والتوقف للحصول على لقمة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>France  is  the  third  largest  country  by  , size  in  Europe  at  248,573  m2  (643,801  , km2).  The  highest  point  in  France  is  , Mont  Blanc  at  15,771  feet  (4,807  m)  , high,  which  is  also  one  of  the  highest  , points  in  Europe.  The  greatest  symbol  , of  the  country,  the  Eiffel  Tower,  was  , going  to  be  demolished  in  1909,  but  , luckily  was  repurposed  as  a  radio  , antenna.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120922Z" creationid="ansas" creationdate="20201206T120922Z">
+        <seg>تعد فرنسا ثالث أكبر دولة من حيث الحجم في أوروبا حيث تبلغ مساحتها 248،573 مترًا مربعًا (643،801 ، كيلومتر مربع). أعلى نقطة في فرنسا هي مونت بلانك على ارتفاع 15771 قدمًا (4807 مترًا) ، وهي أيضًا واحدة من أعلى النقاط في أوروبا. كان من المقرر هدم أعظم رمز للبلاد ، برج إيفل ، في عام 1909 ، ولكن لحسن الحظ أعيد استخدامه كجهاز راديو وهوائي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Frogs  are  amphibians  of  the  order  , Anura.  There  is  no  fundamental  , difference  between  frogs  and  toads,  and  , they  are  not  classified  separately.  , This  is  because  the  toad  lifestyle,  , with  its  dry,  rough  skin,  is  an  , adaptation  to  living  in  drier  habitats.  , The  toad  form  has  evolved  a  number  of  , times  independently,  an  example  of  , convergent  evolution.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123721Z" creationid="ansas" creationdate="20201206T123721Z">
+        <seg>الضفادع برمائيات من الرتبة يا أنورا. لا يوجد فرق أساسي بين الضفادع والضفادع ، ولا يتم تصنيفها بشكل منفصل. ، هذا لأن نمط حياة الضفدع ، ببشرته الجافة والخشنة ، هو تكيف للعيش في بيئات أكثر جفافاً. تطور شكل الضفدع عدة مرات بشكل مستقل كمثال للتطور المتقارب.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fully  autonomous  vehicles  (driverless  , cars)  currently  exist  in  prototype  , (Google  has  developed  a  driverless  , car).  These  cars  are  expected  to  be  , available  commercially  around  the  year  , 2020.  Autonomous  cars  could  help  to  , reduce  the  number  of  vehicles  needed  , on  the  road  and  dramatically  increase  , safety.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120746Z" creationid="ansas" creationdate="20201206T120746Z">
+        <seg>المركبات ذاتية القيادة بالكامل (سيارات بدون سائق ) موجودة حاليًا في نموذج أولي (طورت غوغل سيارة بدون سائق). من المتوقع أن تكون هذه السيارات متاحة تجاريًا على مدار العام 2020. يمكن أن تساعد السيارات المستقلة في تقليل عدد المركبات المطلوبة على الطريق وزيادة السلامة بشكل كبير.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Giant  pandas  live  in  the  temperate  , zone  bamboo  forests  of  central  China.  , They  are  among  the  best  recognized  but  , rarest  animals  in  the  world.  Pandas  , have  come  to  symbolize  endangered  , species  and  conservation  efforts.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T162056Z" creationid="ansas" creationdate="20201204T162056Z">
+        <seg>تعيش الباندا العملاقة في منطقة غابات الخيزران المعتدلة في وسط الصين. ، هم من بين أفضل الحيوانات المعترف بها ولكن الندرة في العالم. أصبحت حيوانات الباندا ترمز إلى الأنواع المهددة بالانقراض وجهود الحفظ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hurricanes  gather  heat  and  energy  , through  contact  with  warm  ocean  waters.  , Evaporation  from  the  seawater  increases  , their  power.  Hurricanes  rotate  in  a  , counterclockwise  direction  around  the  , eye  in  the  Northern  Hemisphere,  and  , clockwise  direction  in  the  Southern  , Hemisphere.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113639Z" creationid="ansas" creationdate="20201206T113639Z">
+        <seg>تجمع الأعاصير الحرارة والطاقة من خلال ملامستها للمياه المحيط الدافئة. ويزيد التبخر من قوة مياه البحر . تدور الأعاصير في اتجاه عكس عقارب الساعة حول العين ، والعين في نصف الكرة الشمالي ، وفي اتجاه عقارب الساعة في نصف الكرة الجنوبي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Independence  Day  in  the  United  States  , of  America  is  celebrated  on  the  4th  of  , July.  On  this  day,  the  Declaration  of  , Independence  was  approved  by  Congress.  , This  document  declared  that  the  13  , colonies  were  a  new  nation,  and  , independent  from  the  British  Empire.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174144Z" creationid="ansas" creationdate="20201207T174144Z">
+        <seg>يتم الاحتفال بعيد استقلال الولايات المتحدة الأمريكية في الرابع من يوليو. في مثل هذا اليوم ، وافق الكونغرس على إعلان الاستقلال. ، أعلنت هذه الوثيقة أن المستعمرات الـ 13 كانت أمة جديدة ، ومستقلة عن الإمبراطورية البريطانية.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In  1776,  colonists  from  Spain  , established  a  fort  at  the  Golden  Gate  , and  a  mission  named  for  Francis  of  , Assisi.  The  California  Gold  Rush  of  , 1849  propelled  the  city  into  a  period  , of  rapid  growth,  increasing  the  , population  in  one  year  from  1,000  to  , 25,000,  and  thus  transforming  it  into  , the  largest  city  on  the  West  Coast  at  , the  time.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174427Z" creationid="ansas" creationdate="20201207T174427Z">
+        <seg>في عام 1776 ، أنشأ المستعمرون من إسبانيا حصنًا عند البوابة الذهبية ، وسُميت البعثة باسم فرانسيس أسيزي. دفعت حمى الذهب في كاليفورنيا عام 1849 المدينة إلى فترة من النمو السريع ، مما أدى إلى زيادة عدد السكان في عام واحد من 1000 إلى 25000 نسمة ، وبالتالي تحويلها إلى أكبر مدينة على الساحل الغربي في ذلك الوقت.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In  2011,  the  U.S.  Fish  and  Wildlife  , Service  announced  that  the  red-crowned  , parrot  warranted  federal  protection.  , They  too  acknowledged  that  the  birds'  , homes  have  been  lost,  and  that  they've  , been  poached  for  the  pet  trade.  They  , want  the  birds  to  be  protected  by  , being  on  America's  official  list  of  , endangered  species.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T173705Z" creationid="ansas" creationdate="20201207T173705Z">
+        <seg>في عام 2011 ، أعلنت إدارة الأسماك والحياة البرية الأمريكية أن الببغاء ذو التاج الأحمر يضمن الحماية الفيدرالية. ، لقد اعترفوا أيضًا بأن الطيور والمنازل قد ضاعت ، وأنهم قد تم صيدهم من أجل تجارة الحيوانات الأليفة. إنهم يريدون حماية الطيور من خلال إدراجهم في القائمة الرسمية الأمريكية للأنواع المهددة بالانقراض.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In  2017,  the  mainland  U.S.  will  , experience  its  first  solar  eclipse  in  , almost  30  years.  At  the  time  of  , writing,  the  eclipse  is  scheduled  to  , occur  on  August  21,  2017.  Some  are  , calling  it  the  Great  American  Eclipse  , because  the  moon's  shadow  will  cross  , twelve  states  from  Oregon  in  the  , Pacific  Northwest  to  South  Carolina  in  , the  Southeast.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174025Z" creationid="ansas" creationdate="20201207T174025Z">
+        <seg>في عام 2017 ، ستشهد معظم اراضي الولايات المتحدة أول كسوف للشمس منذ ما يقرب من 30 عامًا. في وقت كتابة هذا التقرير ، كان من المقرر أن يحدث الكسوف في 21 أغسطس 2017. ويطلق عليه البعض اسم الكسوف الأمريكي العظيم ، لأن ظل القمر سيعبر 12 ولاية من ولاية أوريغون في شمال غرب المحيط الهادئ إلى ساوث كارولينا في ، جنوب شرق البلاد.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In  Mexico,  bird  habitats  have  been  , destroyed  as  forests  and  trees  have  , been  cut  down  to  make  room  for  farms  , and  ranches.  Right  now,  scientists  are  , working  to  get  an  accurate  count  of  , the  population.  The  last  study,  , published  in  1994,  estimated  the  parrot  , population  to  be  3,000  to  6,500  birds.  , That's  down  from  more  than  100,000  in  , the  1950s.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174403Z" creationid="ansas" creationdate="20201207T174403Z">
+        <seg>في المكسيك ، تم تدمير مواطن الطيور مع قطع الغابات والأشجار لإفساح المجال للمزارع والمزارع. في الوقت   الحالي ، يعمل العلماء على الحصول على إحصاء دقيق للسكان. وقدرت الدراسة الأخيرة ، التي نُشرت في عام 1994 ، أن عدد الببغاء يتراوح بين 3000 و 6500 طائر. ، هذا أقل من أكثر من 100000 في الخمسينيات.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In  Spain  and  many  Latin  American  , countries  they  celebrate  New  Year  by  , eating  12  grapes  at  midnight,  just  as  , the  new  year  begins.  The  tradition  , consists  of  eating  a  grape  with  each  , bell  strike  at  midnight  on  December  , 31.  According  to  the  tradition,  this  , leads  to  a  year  of  prosperity.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T114330Z" creationid="ansas" creationdate="20201206T114330Z">
+        <seg>في إسبانيا والعديد من بلدان أمريكا اللاتينية ، يحتفلون بالعام الجديد ، ويأكلون 12 حبة عنب في منتصف الليل ، تمامًا كما يبدأ العام الجديد. يتألف التقليد من تناول حبة عنب مع كل منها ، ودق الجرس في منتصف ليل 31 ديسمبر. ووفقًا للتقاليد ، فإن هذا يؤدي إلى عام من الازدهار.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It  can  be  very  frustrating  to  lose  , your  homework.&lt;span class="_enter"&gt; &lt;br/&gt;, lose  lose  lose  lose  lose&lt;span class="_enter"&gt; &lt;br/&gt;, Be  careful  because  your  shoelace  is  , loose.&lt;span class="_enter"&gt; &lt;br/&gt;, loose  loose  loose  loose  loose&lt;span class="_enter"&gt; &lt;br/&gt;, Their  loss  today  means  they  are  out  of  , the  championship.&lt;span class="_enter"&gt; &lt;br/&gt;, loss  loss  loss  loss  loss</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T110448Z" creationid="ansas" creationdate="20201206T110448Z">
+        <seg>قد يكون من المحبط للغاية أن تخسر واجبك. تخسر تخسر تخسر تخسر كن حذرًا لأن رباط الحذاء فضفاض. ، فضفاضة فضفاضة فضفاضة خسارتهم اليوم تعني خروجهم من البطولة.  خسارة خسارة خسارة خسارة تحتاج الى استعمال قاعدة البيانات </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It  might  only  take  you  a  few  minutes  , to  finish  a  meal  but  it  takes  your  , body  around  12  hours  before  it  has  , completely  digested  the  food.  The  human  , body  needs  iron  to  help  perform  a  , number  of  important  functions.  Iron  , helps  carry  oxygen  to  parts  of  your  , body  in  the  form  of  hemoglobin.  Not  , having  enough  can  lead  to  iron  , deficiency  and  symptoms  such  as  , weakness  and  fatigue.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T175112Z" creationid="ansas" creationdate="20201207T175112Z">
+        <seg>قد يستغرق الأمر بضع دقائق فقط ، لإنهاء الوجبة ، ولكن يستغرق جسمك حوالي 12 ساعة قبل أن يهضم الطعام تمامًا. يحتاج جسم الإنسان إلى الحديد للمساعدة في أداء العدد من الوظائف المهمة. الحديد ، يساعد في نقل الأكسجين إلى أجزاء من جسمك على شكل هيموجلوبين. لا ، فوجود ما يكفي يمكن أن يؤدي إلى نقص الحديد وأعراض مثل الضعف والتعب.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>July  4th  is  the  185th  day  of  the  year  , or  186th  in  leap  years  in  the  , Gregorian  calendar.  There  are  180  days  , remaining  until  the  end  of  the  year.  , Aphelion,  the  point  during  the  orbit  , of  the  Earth  when  it  is  furthest  from  , the  Sun,  occurs  around  this  date.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T112936Z" creationid="ansas" creationdate="20201206T112936Z">
+        <seg>الرابع من تموز (يوليو) هو اليوم 185 في السنة ، أو اليوم 186 في السنة الكبيسة في التقويم الغريغوري. هناك 180 يومًا متبقية حتى نهاية العام. ، الاوج الشمسي  ، النقطة التي تدور حول مدار الأرض ، عندما تكون أبعد من الشمس ، تحدث في هذا التاريخ تقريبًا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboards  look  as  if  someone  jumbled  , the  letters  around  to  make  it  harder  , to  find  each  key.  In  fact,  the  QWERTY  , layout  was  very  carefully  designed  to  , prevent  the  mechanical  parts  of  , typewriters  from  jamming  together.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T091206Z" creationid="ansas" creationdate="20201204T091206Z">
+        <seg>تبدو لوحات المفاتيح كما لو كان شخص ما مختلطًا ، والحروف الموجودة حولها تجعل من الصعب العثور على كل مفتاح. في الواقع ، تم تصميم تخطيط كويرتي بعناية فائقة لمنع الأجزاء الميكانيكية للآلات الكاتبة من التشويش معًا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>King  Kong  is  a  fictional  character,  a  , giant  movie  monster  resembling  a  , gorilla,  that  has  appeared  in  several  , movies  since  1933.  These  include  the  , groundbreaking  1933  movie,  the  film  , remakes  of  1976  and  2005,  as  well  as  , various  sequels  of  the  first  two  , films.  The  character  has  become  one  of  , the  world's  most  famous  movie  icons.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T173900Z" creationid="ansas" creationdate="20201207T173900Z">
+        <seg>كينغ كونغ هو شخصية خيالية ، وحش سينمائي عملاق يشبه الغوريلا ، ظهر في العديد من الأفلام منذ عام 1933. وتشمل هذه الأفلام الرائدة عام 1933 ، والفيلم ، وإعادة إنتاج عامي 1976 و 2005 ، بالإضافة إلى العديد من التكميلات. من أول فيلمين. أصبحت الشخصية واحدة من أشهر أيقونات الأفلام في العالم.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Like  all  sciences,  biology  uses  the  , scientific  method.  This  means  that  , biologists  must  be  able  to  show  , evidence  for  their  ideas,  and  that  , other  biologists  must  be  able  to  test  , the  ideas  for  themselves.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T085751Z" creationid="ansas" creationdate="20201204T085751Z">
+        <seg>مثل كل العلوم ، تستخدم البيولوجيا الطريقة العلمية. هذا يعني أنه يجب أن يكون علماء الأحياء قادرين على إظهار أدلة على أفكارهم ، وأن علماء الأحياء الآخرين يجب أن يكونوا قادرين على اختبار الأفكار بأنفسهم.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lisbon,  the  capital  city  of  Portugal,  , is  home  to  the  longest  bridge  in  , Europe.  The  Vasco  da  Gama  Bridge  in  , Lisbon  is  seventeen  kilometers  or  ten  , and  a  half  miles  long.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T082434Z" creationid="ansas" creationdate="20201204T082434Z">
+        <seg>لشبونة ، عاصمة البرتغال ، هي موطن لأطول جسر في أوروبا. جسر فاسكو دا جاما في لشبونة يبلغ طوله سبعة عشر كيلومترًا أو عشرة كيلومترات ونصف ميل.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most  natural  diamonds  are  formed  at  , high  temperature  and  pressure  at  depths  , of  140  to  190  kilometers  (87  to  118  , mi)  in  the  mantle  of  the  Earth.  , Minerals  containing  carbon  provide  the  , carbon  source,  and  the  growth  occurs  , over  periods  from  1  billion  to  3.3  , billion  years  (25%  to  75%  of  the  age  , of  the  Earth).</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120612Z" creationid="ansas" creationdate="20201206T120612Z">
+        <seg>يتكون معظم الماس الطبيعي في درجات حرارة عالية وضغط في الأعماق من 140 إلى 190 كيلومترًا (87 إلى 118 ميل) في عباءة الأرض. توفر المعادن المحتوية على الكربون مصدر الكربون ، ويحدث النمو على فترات من 1 مليار إلى 3.3 مليار سنة (25٪ إلى 75٪ من العمر ، من الأرض).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Muhammad  Ali,  the  three  time  world  , heavyweight  boxing  champion,  never  , forgot  his  roots.  He  returned  to  his  , old  neighborhood  and  visited  high  , school  classmates  even  after  becoming  , one  of  the  most  recognizable  men  in  , the  world.  Muhammad  Ali  was  born  and  , raised  in  Kentucky,  where  he  started  , boxing  at  the  age  of  12.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T175207Z" creationid="ansas" creationdate="20201207T175207Z">
+        <seg>محمد علي ، بطل العالم ثلاث مرات ، بطل الملاكمة للوزن الثقيل ، لم ينس أبداً جذوره. عاد إلى حيه القديم وزار زملائه في المدرسة الثانوية حتى بعد أن أصبح أحد أكثر الرجال شهرة في العالم. ولد محمد علي وترعرع في ولاية كنتاكي ، حيث بدأ الملاكمة في سن الثانية عشرة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Native  American  tradition  says  that  , they  were  always  in  America.  Most  of  , the  scientific  evidence  suggests  that  , their  ancestors  came  from  Asia  in  , prehistoric  times,  either  by  foot  over  , a  land  bridge  or  using  ancient  boats.  , This  would  have  happened  more  than  , 20,000  years  ago.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113730Z" creationid="ansas" creationdate="20201206T113730Z">
+        <seg>تقول تقاليد الأمريكيين الأصليين أنهم كانوا دائمًا في أمريكا. تشير معظم الأدلة العلمية إلى أن أسلافهم جاءوا من آسيا في عصور ما قبل التاريخ ، إما سيرًا على الأقدام أو على جسر بري أو باستخدام قوارب قديمة. ، كان هذا سيحدث منذ أكثر من 20000 عام.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New  Mexico  became  a  state  on  January  , 6,  1912  and  became  the  47th  state  , accepted  into  the  United  States.  The  , state  capital  is  Santa  Fe.  The  , population  is  1,819,046  and  most  of  , the  people  live  in  the  biggest  city,  , Albuquerque.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T112353Z" creationid="ansas" creationdate="20201206T112353Z">
+        <seg>أصبحت نيو مكسيكو ولاية في 6 يناير 1912 وأصبحت الولاية رقم 47 المقبولة في الولايات المتحدة. عاصمة الولاية هي سانتا في. يبلغ عدد سكانها 1،819،046 نسمة ويعيش معظمهم في أكبر مدينة وهي البوكيرك.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our  muscles  have  an  amazing  way  of  , letting  our  bodies  do  difficult  things  , without  even  thinking  about  it.  It  is  , called  Muscle  Memory.  When  you  practice  , typing,  you  are  building  muscle  memory  , so  you  can  type  without  having  to  , focus  on  it.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T091509Z" creationid="ansas" creationdate="20201204T091509Z">
+        <seg>تمتلك عضلاتنا طريقة رائعة في السماح لأجسادنا بالقيام بأشياء صعبة ، دون حتى التفكير في الأمر. إنها تسمى ذاكرة العضلات. عندما تتدرب على الكتابة ، فأنت تبني ذاكرة عضلية ، حتى تتمكن من الكتابة دون الحاجة إلى التركيز عليها.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>People  who  study  biology  are  called  , biologists.  Biology  looks  at  how  , animals  and  other  organisms  behave  and  , work,  and  what  they  are  like.  Biology  , also  studies  how  organisms  react  with  , each  other  and  the  environment.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T090349Z" creationid="ansas" creationdate="20201204T090349Z">
+        <seg>يُطلق على الأشخاص الذين يدرسون علم الأحياء اسم علماء الأحياء. يبحث علم الأحياء في كيفية تصرف الحيوانات والكائنات الحية الأخرى ، وكيف تعمل ، وكيف تبدو. علم الأحياء ، يدرس أيضًا كيفية تفاعل الكائنات الحية مع بعضها البعض ومع البيئة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Persians  invented  a  type  of  evaporative  , cooler  known  as  a  Yakhchal  around  400  , BCE.  It  was  a  dome-shaped  object  used  , as  a  means  of  refrigeration.  The  items  , meant  to  be  kept  cool  were  stored  in  , the  subterranean  part  of  this  structure  , and  since  it  had  this  subterranean  , space  as  well  as  heat-resistant  , materials,  it  was  capable  of  storing  , ice  or  foods  in  the  hot  desert  , year-round.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T175152Z" creationid="ansas" creationdate="20201207T175152Z">
+        <seg>اخترع الفرس نوعًا من المبرد التبخيري المعروف باسم يخجل حوالي عام 400 قبل الميلاد. لقد كان جسمًا على شكل قبة يستخدم كوسيلة للتبريد. تم تخزين العناصر التي من المفترض أن تبقى باردة في الجزء السفلي من هذا الهيكل ، ولأنه يحتوي على هذه المواد الجوفية ، وكذلك الفضاء ، وكذلك المواد المقاومة للحرارة ، فقد كان قادرًا على التخزين أو الثلج أو الأطعمة في الصحراء الساخنة ، على مدار السنة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plants  take  water  from  soil  through  , their  veins,  which  are  called  xylem.  , The  water  goes  to  their  leaves,  which  , take  carbon  dioxide  from  the  air.  , Carbon  dioxide  mixes  with  the  water.  , Energy  from  the  sun  helps  this  process  , along  and  turns  the  combination  into  a  , sugar  called  glucose.  Glucose  is  plant  , food,  it  gives  plants  energy  to  grow.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174907Z" creationid="ansas" creationdate="20201207T174907Z">
+        <seg>تأخذ النباتات الماء من التربة من خلال عروقها ، والتي تسمى نسيج الخشب. يذهب الماء إلى أوراقها التي تأخذ ثاني أكسيد الكربون من الهواء. ثاني أكسيد الكربون يختلط بالماء. ، الطاقة من الشمس تساعد هذه العملية ، وتحويل التركيبة إلى سكر يسمى الجلوكوز. الجلوكوز نبات ، غذاء ، يعطي النباتات طاقة لتنمو.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pluto  is  the  2nd  most  massive  known  , dwarf  planet  in  the  solar  system  and  , the  10th  most  massive  body  observed  , directly  orbiting  the  Sun.  Originally  , classified  as  the  9th  planet  from  the  , Sun,  Pluto  was  recategorized  as  a  , dwarf  planet  and  plutoid  due  to  the  , discovery  that  it  is  1  of  many  large  , bodies  in  the  newly  charted  Kuiper  , belt.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174508Z" creationid="ansas" creationdate="20201207T174508Z">
+        <seg>بلوتو هو ثاني أكبر كوكب قزم معروف في النظام الشمسي والعاشر من حيث الكتلة المرصودة ، يدور مباشرة حول الشمس. تم تصنيف بلوتو في الأصل على أنه الكوكب التاسع من الشمس ، وأعيد تصنيفه على أنه كوكب قزم وبلوتويد بسبب اكتشاف أنه واحد من العديد من الأجسام الكبيرة في حزام كويبر المرسوم حديثًا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Polyps  attach  themselves  to  surfaces  , like  docks  and  bulkheads.  There  they  , grow,  until  late  spring  when  they  , become  millions  of  new  jellyfish.  These  , jellyfish  are  sting  ready  by  summer.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T083523Z" creationid="ansas" creationdate="20201204T083523Z">
+        <seg>تلتصق الشعاب المرجانية بالأسطح ، مثل الأحواض والحواجز. و هناك ، تنمو ، حتى أواخر الربيع عندما تصبح الملايين من قناديل البحر الجديدة جاهزة .  قناديل البحر هذه تصبح قادرة على اللدغ بحلول الصيف.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Puppies  develop  very  quickly  during  , their  first  three  months,  particularly  , after  their  eyes  and  ears  open  and  , they  are  no  longer  completely  dependent  , on  their  mother.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T082735Z" creationid="ansas" creationdate="20201204T082735Z">
+        <seg>تنمو الجراء بسرعة كبيرة خلال الأشهر الثلاثة الأولى من اعمرها ، خاصة بعد أن تفتح عيونها وآذانها ، ولم يعودوا يعتمدون بشكل كامل على أمهم.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Russia  is  the  largest  country  in  the  , world  by  area.  It  covers  more  than  1/9  , of  the  land  area  of  the  Earth.  Russia  , has  the  longest  railway  in  the  world,  , the  Trans  Siberian  Railway.  To  travel  , from  one  end  to  the  other  would  take  , around  6.5  days!  It  has  connected  the  , cities  of  Moscow  and  Vladivostok  since  , 1916.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123427Z" creationid="ansas" creationdate="20201206T123427Z">
+        <seg>روسيا هي أكبر دولة في العالم من حيث المساحة. وهي تغطي أكثر من 1/9 من مساحة الأرض على الأرض. تمتلك روسيا أطول خط سكة حديد في العالم ، السكك الحديدية العابرة لسيبيريا. يستغرق السفر من طرف إلى آخر حوالي 6.5 يومًا! وقد ربطت مدينتي موسكو وفلاديفوستوك منذ عام 1916.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>San  Francisco,  officially  the  City  and  , County  of  San  Francisco,  is  the  , financial,  cultural,  and  transportation  , center  of  the  San  Francisco  Bay  Area,  , a  region  of  7.15  million  people  which  , includes  San  Jose  and  Oakland.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T112303Z" creationid="ansas" creationdate="20201206T112303Z">
+        <seg>سان فرانسيسكو ، رسميا مدينة ومقاطعة سان فرانسيسكو ، هي المركز المالي والثقافي والنقل ، وهي مركز منطقة خليج سان فرانسيسكو ، وهي منطقة يبلغ عدد سكانها 7.15 مليون نسمة ، بما في ذلك سان خوسيه وأوكلاند.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scandinavia  is  a  geographical  and  , cultural  region  in  Northern  Europe,  , which  consists  of  Norway,  Sweden,  and  , Denmark.  There  is  a  completely  , different  language  spoken  in  each  , country  (Norwegian,  Danish,  and  , Swedish).  However,  all  three  languages  , have  Germanic  roots  and  are  considered  , mutually  understandable.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120818Z" creationid="ansas" creationdate="20201206T120818Z">
+        <seg>الدول الاسكندنافية هي منطقة جغرافية وثقافية في شمال أوروبا ، والتي تتكون من النرويج والسويد والدنمارك. توجد لغة مختلفة تمامًا يتم التحدث بها في كل بلد (النرويجية والدنماركية والسويدية). ومع ذلك ، فإن جميع اللغات الثلاث لها جذور جرمانية وتعتبر مفهومة بشكل متبادل.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scientists  calculate  that  there  are  at  , least  100  billion  galaxies  in  the  , observable  universe,  each  one  brimming  , with  stars.  On  a  very  large  scale,  , they  form  a  bubbly  structure,  in  which  , vast  sheets  and  filaments  of  galaxies  , surround  gargantuan  voids.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113023Z" creationid="ansas" creationdate="20201206T113023Z">
+        <seg>يقدر العلماء أن هناك ما لا يقل عن 100 مليار مجرة في الكون المرئي ، كل واحدة مليئة بالنجوم. على نطاق واسع جدًا ، فإنها تشكل بنية فقاعية ، حيث تحيط بها ، صفائح وخيوط واسعة من المجرات ، فراغات عملاقة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sharks  do  not  have  a  single  bone  in  , their  bodies.  Rather  than  bones,  sharks  , have  a  skeleton  made  of  cartilage.  , Cartilage  is  the  same  type  of  tough,  , flexible  tissue  that  makes  up  human  , ears  and  noses.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T085539Z" creationid="ansas" creationdate="20201204T085539Z">
+        <seg>لا تحتوي أسماك القرش على عظمة واحد في أجسامها. بدلاً من العظام ، تمتلك أسماك القرش هيكلًا عظميًا مصنوعًا من الغضاريف. والغضروف هو نفس النوع من الأنسجة القاسية والمرنة التي يتكون منها اذن  و انف الانسان.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sleeping  Beauty  (1959)  is  an  American  , animated  movie  produced  by  Walt  Disney  , Productions  and  released  to  movie  , theaters  by  Buena  Vista  Distribution.  , Sleeping  Beauty  earned  (approximately)  , $7.7  million  in  box  office  rentals.  , Its  production  costs  totaled  $6  , million,  making  it  the  most  expensive  , Disney  movie  to  that  date.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123203Z" creationid="ansas" creationdate="20201206T123203Z">
+        <seg>الجميلة النائمة (1959) هو فيلم رسوم متحركة أمريكي أنتجته شركة والت ديزني للإنتاج وتم إصداره في دور السينما بواسطة Buena Vista Distribution. ، سليبينج بيوتي كسبت (تقريبًا) 7.7 مليون دولار من إيجارات شباك التذاكر. وبلغت تكاليف إنتاجه 6 ملايين دولار ، مما جعله أغلى فيلم ديزني حتى ذلك التاريخ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There  are  dozens  of  tectonic  plates  , below  the  surface  of  the  Earth  that  , move  continuously  and  slowly  past  each  , other.  When  the  plates  squeeze  or  , stretch,  huge  rocks  form  at  their  , edges  and  the  rocks  shift  with  great  , force,  causing  an  earthquake.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T112445Z" creationid="ansas" creationdate="20201206T112445Z">
+        <seg>هناك العشرات من الصفائح التكتونية ، تحت سطح الأرض ، تتحرك باستمرار وببطء متجاوزة بعضها البعض. عندما تنضغط الصفائح أو تتمدد ، تتشكل صخور ضخمة عند حوافها وتتحول الصخور بقوة كبيرة ، مما يتسبب في حدوث زلزال.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There  are  many  more  people  working  on  , pop  music  than  those  that  are  seen  on  , stage  or  in  the  video.  These  people  , include  the  studio,  production,  , distribution  and  retail  staff,  each  of  , which  help  the  musicians  to  record  , with  extensive  quality  control,  and  , sell  it  to  the  stores  and  finally  to  , people.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T175236Z" creationid="ansas" creationdate="20201207T175236Z">
+        <seg>هناك العديد من الأشخاص الذين يعملون على موسيقى البوب أكثر من أولئك الذين يشاهدون على المسرح أو في الفيديو. هؤلاء الأشخاص ، يشملون الاستوديو ، والإنتاج ، والتوزيع ، وموظفي البيع بالتجزئة ، كل منهم ، والتي تساعد الموسيقيين على التسجيل ، مع مراقبة الجودة الشاملة ، وبيعها للمتاجر وأخيراً للأشخاص.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There  are  over  6,000  languages  spoken  , in  the  world  today,  many  of  which  are  , spoken  by  fewer  than  a  few  hundred  , people.  The  top  10  or  12  languages,  , however,  make  up  the  vast  majority  of  , all  of  the  speakers  in  the  world.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T112339Z" creationid="ansas" creationdate="20201206T112339Z">
+        <seg>هناك أكثر من 6000 لغة يتم التحدث بها في العالم اليوم ، والعديد منها يتحدث بها أقل من بضع مئات من الناس. ومع ذلك ، فإن أفضل 10 أو 12 لغة تشكل الغالبية العظمى من جميع المتحدثين في العالم.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  Moon  is  in  synchronous  rotation  , with  Earth.  This  means  it  always  shows  , Earth  the  same  face  with  its  near  side  , marked  by  dark  volcanic  maria  that  , fills  the  spaces  between  the  crustal  , highlands  and  impact  craters.  It  is  , the  brightest  object  in  the  sky  after  , the  Sun,  although  its  surface  is  , actually  dark.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174639Z" creationid="ansas" creationdate="20201207T174639Z">
+        <seg>القمر في حالة دوران متزامن مع الأرض. هذا يعني أنه يظهر دائمًا ، الأرض نفس الوجه مع جانبها القريب ، يتميز بماريا بركانية داكنة تملأ الفراغات بين القشرة الأرضية والمرتفعات وحفر التصادم. إنها ألمع جسم في السماء بعد الشمس ، على الرغم من أن سطحها مظلمة في الواقع.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  Pacific  Ocean  is  currently  , shrinking  due  to  plate  tectonics,  while  , the  Atlantic  Ocean  is  increasing  in  , size,  by  roughly  an  inch  per  year  or  , 2  to  3  cm/yr  on  3  sides,  roughly  , averaging  0.2  square  miles  or  0.52  , square  kilometers  a  year.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T112730Z" creationid="ansas" creationdate="20201206T112730Z">
+        <seg>يتقلص المحيط الهادي حاليًا بسبب الصفائح التكتونية ، بينما يزداد المحيط الأطلسي في الحجم بمقدار بوصة واحدة تقريبًا في السنة أو 2 إلى 3 سم / سنة على 3 جوانب ، بمتوسط 0.2 ميل مربع أو 0.52 ، كيلومترات مربعة في السنة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  USA  has  more  tornadoes  than  any  , other  country  in  the  world,  averaging  , around  1,200  a  year.  This  is  due  , largely  to  the  unique  geography  of  the  , Midwest  which  forms  an  area  known  as  , Tornado  Alley.  The  highest  recorded  , tornado  wind  speed  is  302  miles  per  , hour,  on  May  3,  1999  in  Bridge  Creek,  , Oklahoma.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T114652Z" creationid="ansas" creationdate="20201206T114602Z">
+        <seg>الولايات المتحدة لديها أعاصير أكثر من أي دولة أخرى في العالم ، بمتوسط حوالي 1200 في السنة. هذا يرجع إلى حد كبير إلى الجغرافيا الفريدة للغرب الأوسط الذي يشكل منطقة تعرف باسم وادي  تورنادو. أعلى سرعة رياح مسجلة للإعصار هي 302 ميل في الساعة في 3 مايو 1999 في بريدج كريك ، أوكلاهوما.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  c2  in  the  equation  stands  for  the  , speed  of  light  squared.  To  square  , something  means  to  multiply  it  by  , itself,  so  it  is  approximately&lt;span class="_enter"&gt; &lt;br/&gt;, (3  *  108)2  is  equal  to  (9  *  1016)  , meters2/seconds2  is  equal  to  , 90,000,000,000,000,000  meters2/seconds2.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120426Z" creationid="ansas" creationdate="20201206T120426Z">
+        <seg>يرمز c2 في المعادلة إلى مربع سرعة الضوء. للتربيع ، يعني شيء ما ضربه في نفسه ، لذا فهو تقريبًا  (3 * 108) 2 يساوي (9 * 1016) ، متر 2 / ثانية 2 يساوي ، 90.000.000.000.000.000 متر 2 / ثانية 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  first  law  of  motion  says:  if  a  , body  is  at  rest  it  remains  at  rest  , or,  if  it  is  in  motion,  it  moves  with  , uniform  velocity,  until  it  is  acted  on  , by  a  resultant  force.  An  object  , continues  to  do  whatever  it  happens  to  , be  doing  unless  a  force  is  exerted  , upon  it.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113339Z" creationid="ansas" creationdate="20201206T113339Z">
+        <seg>يقول القانون الأول للحركة: إذا كان الجسم في حالة سكون ، فإنه يظل في حالة سكون ، أو إذا كان في حالة حركة ، فإنه يتحرك بسرعة موحدة ، حتى يتم العمل عليه ، بواسطة قوة محصلة. الكائن ، يستمر في فعل أي شيء يحدث له ، ما لم يتم ممارسة قوة عليه.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  four  outer  planets,  or  gas  giants,  , collectively  make  up  99%  of  the  mass  , known  to  orbit  the  Sun.  Jupiter  and  , Saturn  are  each  many  tens  of  times  the  , mass  of  the  Earth  and  consist  , overwhelmingly  of  hydrogen  and  helium.  , Uranus  and  Neptune  are  far  less  , massive  (&amp;lt;20  Earth  masses)  and  possess  , more  ice  in  their  makeup.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174131Z" creationid="ansas" creationdate="20201207T174131Z">
+        <seg>تشكل الكواكب الخارجية الأربعة ، أو عمالقة الغاز ، مجتمعة 99٪ من الكتلة ، والمعروف أنها تدور حول الشمس. كوكب المشتري وزحل كل منهما تساوي عشرات المرات كتلة الأرض ويتكونان بأغلبية ساحقة من الهيدروجين والهيليوم. وأورانوس ونبتون أقل كثافة بكثير (أقل من 20 كتلة أرضية) ويمتلكان المزيد من الجليد في تركيبتهما.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  giant  panda,  or  panda,  is  a  bear  , native  to  central  western  and  , southwestern  China.  It  is  easily  , recognized  by  its  large,  distinctive  , black  patches  around  the  eyes,  over  , the  ears,  and  across  its  round  body.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T090203Z" creationid="ansas" creationdate="20201204T090203Z">
+        <seg>الباندا العملاقة هي دب موطنه غرب وسط وجنوب غرب الصين. يمكن التعرف عليه بسهولة من خلال بقعه السوداء الكبيرة والمميزة حول العينين والأذنين وعبر جسمه المستدير.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  makeup  of  our  bodies  changes  as  we  , age.  The  proportion  of  muscle  , decreases,  and  the  proportion  of  body  , fat  increases.  This  slows  metabolism,  , or  the  rate  at  which  the  body  converts  , food  into  energy.  As  a  result,  it  is  , easier  for  middle  aged  people  to  put  , on  weight,  even  if  they  do  not  change  , how  they  eat  or  how  much  they  exercise.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123711Z" creationid="ansas" creationdate="20201206T123711Z">
+        <seg>يتغير تكوين أجسادنا مع تقدمنا في العمر. تتناقص نسبة العضلات وتزداد نسبة الدهون بالجسم. يؤدي هذا إلى إبطاء عملية التمثيل الغذائي ، أو معدل تحويل الجسم للطعام إلى طاقة. ونتيجة لذلك ، يسهل على الأشخاص في منتصف العمر زيادة الوزن ، حتى لو لم يتغيروا ، أو كيف يأكلون أو مقدار ما يمارسون الرياضة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  name  astronaut  comes  from  the  , Greek  words  for  star  and  sailor.  Astro  , means  star,  and  naut  refers  to  , sailors.  Astronauts  orbiting  Earth  can  , see  up  to  sixteen  sunrises  and  sunsets  , every  day.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T083638Z" creationid="ansas" creationdate="20201204T083638Z">
+        <seg>يأتي اسم رائد الفضاء من الكلمات اليونانية للنجم والبحار. استرو يعني نجم ، ويشير ناوت إلى البحارة. يستطيع رواد الفضاء الذين يدورون حول الأرض رؤية ما يصل إلى ستة عشر شروقًا وغروبًا للشمس يوميًا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  oldest  part  of  New  York  City,  the  , island  of  Manhattan,  still  has  its  , original  Lenape  Native  American  name.  , Although  native  people  such  as  the  , Lenape  and  Canarsees  had  lived  there  , for  many  thousands  of  years,  New  York  , City  was  first  explored  by  Europeans  , in  the  1500s.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113521Z" creationid="ansas" creationdate="20201206T113521Z">
+        <seg>الجزء الأقدم من مدينة نيويورك ، جزيرة مانهاتن ، لا يزال يحمل اسم Lenape الأصلي الأمريكي الأصلي. ، على الرغم من أن السكان الأصليين مثل ال ، لينابي وكانارسي كانوا قد عاشوا هناك ، لآلاف السنين ، اكتشف الأوروبيون مدينة نيويورك لأول مرة في القرن السادس عشر.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  origin  of  the  ampersand  (&amp;amp;)  can  be  , traced  back  to  the  Latin  word  et,  , meaning  and.  The  E  and  T  that  make  up  , this  word  were  written  together  to  , form  a  ligature  (a  character  consisting  , of  two  or  more  joined  letters).  , Writing  this  way  saved  time,  with  one  , letter  flowing  seamlessly  into  the  , next;  a  form  of  cursive  writing.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123451Z" creationid="ansas" creationdate="20201206T123451Z">
+        <seg>يمكن إرجاع أصل علامة العطف (&amp;) إلى الكلمة اللاتينية et ، بمعنى و. الحرفان E و T اللذان يتكونان ، تمت كتابة هذه الكلمة معًا لتشكيل رابط (حرف يتكون من حرفين متصلين أو أكثر). الكتابة بهذه الطريقة توفر الوقت مع حرف واحد يتدفق بسلاسة في التالي ؛ شكل من أشكال الكتابة المتصلة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  president  of  the  United  States  of  , America  is  both  the  head  of  state  and  , head  of  the  government.  The  office  of  , president  was  created  in  the  United  , States  Constitution  in  1788.  The  first  , president  took  office  in  1789.  The  , president  serves  as  chief  executive  and  , is  in  charge  of  the  executive  branch  , of  the  United  States  government.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174253Z" creationid="ansas" creationdate="20201207T174253Z">
+        <seg>رئيس الولايات المتحدة الأمريكية هو رئيس الدولة ورئيس الحكومة. تم إنشاء مكتب الرئيس في دستور الولايات المتحدة عام 1788. تولى الرئيس الأول منصبه عام 1789. يشغل الرئيس منصب الرئيس التنفيذي وهو المسؤول عن الفرع التنفيذي لحكومة الولايات المتحدة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  solar  system  is  the  Sun  and  all  , the  objects  in  orbit  around  it.  The  , Sun  is  orbited  by  planets,  asteroids,  , comets,  and  other  things.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T082549Z" creationid="ansas" creationdate="20201204T082453Z">
+        <seg>النظام الشمسي هو الشمس وكل الأشياء التي تدور حولها. تدور الشمس حول الكواكب والكويكبات والمذنبات وأشياء أخرى.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  speed  of  light  in  a  vacuum,  , usually  denoted  by  c,  is  a  physical  , constant  important  in  many  areas  of  , physics.  Its  value  is  299,792,458  , meters  per  second,  a  figure  that  is  , exact  since  the  length  of  the  meter  is  , defined  from  this  constant  and  the  , international  standard  for  time.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T114052Z" creationid="ansas" creationdate="20201206T114052Z">
+        <seg>سرعة الضوء في الفراغ ، التي يُرمز إليها عادةً بـسين ، هي فيزيائية ، مهمة ثابتة في العديد من مجالات الفيزياء. قيمته هي 299،792،458 مترًا في الثانية ، وهو رقم دقيق لأن طول العداد محدد من هذا الثابت والمعيار الدولي للوقت.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  timing  of  the  Great  Depression  , varied  across  nations,  but  in  most  , countries  it  started  in  1929  and  , lasted  until  the  late  1930s  or  early  , 1940s.  It  was  the  longest,  most  , widespread,  and  deepest  depression  of  , the  20th  century.  In  the  21st  century,  , the  Great  Depression  is  commonly  used  , as  an  example  of  how  far  the  world's  , economy  can  decline.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174034Z" creationid="ansas" creationdate="20201207T174034Z">
+        <seg>اختلف توقيت الكساد الكبير بين الدول ، ولكن في معظم البلدان بدأ في عام 1929 واستمر حتى أواخر الثلاثينيات أو أوائل الأربعينيات. كان الكساد الأطول والأكثر انتشارًا والأعمق في القرن العشرين. في القرن الحادي والعشرين ، شاع استخدام الكساد الكبير ، كمثال على المدى الذي يمكن أن يتراجع فيه الاقتصاد العالمي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  word  oil  is  used  for  many  , different  kinds  of  liquids.  Oil  usually  , does  not  mix  with  water.  Some  oils  are  , made  from  plants  and  used  in  foods  and  , for  cooking.  Some  varieties  of  plant  , oils  are  African  palm,  maize  (corn),  , olive,  peanut,  soy,  and  sunflower.  , Other  kinds  of  oil  are  made  from  crude  , oil  (petroleum)  which  comes  from  under  , the  ground.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174853Z" creationid="ansas" creationdate="20201207T174853Z">
+        <seg>تستخدم كلمة "زيت" للإشارة إلى أنواع مختلفة من السوائل. الزيت عادة لا يختلط بالماء. بعض الزيوت مصنوعة من النباتات وتستخدم في الأطعمة وللطبخ. بعض أنواع الزيوت النباتية هي النخيل الأفريقي والذرة والزيتون والفول السوداني وفول الصويا وعباد الشمس. ، أنواع أخرى من النفط مصنوعة من النفط الخام ، والنفط (البترول) الذي يأتي من تحت الأرض.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thomas  Jefferson,  the  third  of  ten  , children,  was  born  on  April  13,  1743  , in  Shadwell,  Virginia  into  a  planter  , family.  His  parents  were  Peter  and  , Jane  Jefferson.  He  had  six  sisters  and  , three  brothers.  At  9  years  old  , Jefferson  began  studying  Latin,  Greek,  , and  French;  he  also  learned  to  ride  , horses,  and  began  to  study  nature.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T173805Z" creationid="ansas" creationdate="20201207T173805Z">
+        <seg>وُلد توماس جيفرسون ، الثالث من بين عشرة أطفال ، في 13 أبريل 1743 في شادويل بولاية فيرجينيا لعائلة مزارع. كان والديه بيتر وجين جيفرسون. كان لديه ست شقيقات وثلاثة أشقاء. بدأ جيفرسون في التاسعة من عمره بدراسة اللاتينية واليونانية والفرنسية. كما تعلم ركوب الخيل ، وبدأ في دراسة الطبيعة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tigers  vary  in  size  depending  on  their  , subspecies.  Siberian  tigers  are  the  , largest.  Males  can  grow  to  be  6  feet  , (1.8  meters)  long  (body  length)  and  , weigh  about  500  pounds  (230  kg).  , Females  are  a  bit  smaller.  The  record  , weight  for  males  is  claimed  to  be  700  , pounds  (318  kg),  but  this  cannot  be  , confirmed.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120605Z" creationid="ansas" creationdate="20201206T120605Z">
+        <seg>تختلف النمور في الحجم حسب نوعها الفرعي. النمور السيبيرية هي الأكبر. يمكن أن يصل طول الذكور إلى 6 أقدام (1.8 متر) (طول الجسم) ويزن حوالي 500 رطل (230 كجم). ، الإناث أصغر قليلاً. يُزعم أن الرقم القياسي ، وزن الذكور هو 700 رطل (318 كجم) ، لكن لا يمكن تأكيد ذلك.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Twenty  years  from  now  you  will  be  more  , disappointed  by  the  things  that  you  , did  not  do  than  by  the  ones  you  did  , do,  so  throw  off  the  bowlines,  sail  , away  from  safe  harbor,  catch  the  trade  , winds  in  your  sails.  Explore,  Dream,  , Discover.  Mark  Twain</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113003Z" creationid="ansas" creationdate="20201206T113003Z">
+        <seg>بعد عشرين عامًا من الآن ، ستصاب بخيبة أمل بسبب الأشياء التي لم تفعلها أكثر من تلك التي فعلتها ، لذا تخلص من الخطوط الأمامية ، أبحر ، بعيدًا عن الملاذ الآمن ، امسك التجارة ، الرياح في أشرعتك. استكشف ، احلم ، اكتشف. مارك توين</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Typewriters,  unlike  modern  keyboards,  , use  large  mechanical  parts  to  press  , ink  down  on  paper.  If  someone  pressed  , down  keys  that  were  next  to  each  other  , on  the  typewriter,  the  parts  would  , sometimes  get  jammed.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T085929Z" creationid="ansas" creationdate="20201204T085929Z">
+        <seg>تستخدم الآلات الكاتبة ، على عكس لوحات المفاتيح الحديثة ، أجزاء ميكانيكية كبيرة للضغط الحبر على الورق. إذا ضغط أحدهم ، على المفاتيح الموجودة بجانب بعضها البعض ، على الآلة الكاتبة ، فإن الأجزاء قد تتعطل أحيانًا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ulaanbaatar  is  the  capital  of  Mongolia  , and  its  largest  city.  As  a  nomadic  , city,  the  capital  used  to  move  three  , times  a  year.  With  just  four  people  , per  square  mile,  Mongolia  is  the  least  , densely  populated  country  on  Earth.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T161800Z" creationid="ansas" creationdate="20201204T161800Z">
+        <seg>أولان باتور هي عاصمة منغوليا وأكبر مدنها. باعتبارها مدينة بدوية ، كانت العاصمة تتحرك ثلاث مرات في السنة. مع أربعة أشخاص فقط ، لكل ميل مربع ، تعد منغوليا الدولة الأقل كثافة سكانية على وجه الأرض.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weather  is  the  state  of  the  atmosphere  , at  any  time,  including  things  such  as  , temperature,  precipitation,  air  , pressure,  and  cloud  cover.  Daily  , changes  in  the  weather  are  due  to  , winds  and  storms.  Seasonal  changes  are  , due  to  the  Earth  revolving  around  the  , sun.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113253Z" creationid="ansas" creationdate="20201206T113253Z">
+        <seg>الطقس هو حالة الغلاف الجوي ، في أي وقت ، بما في ذلك أشياء مثل درجة الحرارة ، وهطول الأمطار ، والهواء ، والضغط ، والغطاء السحابي. يوميا ، التغيرات في الطقس بسبب الرياح والعواصف. التغيرات الموسمية هي بسبب الأرض تدور حول الشمس.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whales  love  to  sing.  They  use  songs  as  , a  form  of  communication,  and  also  just  , for  fun.  After  a  period  of  time,  they  , get  bored  of  the  same  song  and  begin  , to  sing  a  different  tune.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201204T082910Z" creationid="ansas" creationdate="20201204T082910Z">
+        <seg>تحب الحيتان الغناء.و يستخدمون الأغاني كشكل من أشكال التواصل وأيضا للمتعة فقط. بعد فترة من الزمن ، يشعرون بالملل من نفس الأغنية ويبدأون في غناء لحن مختلف.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When  humans  burn  fossil  fuels  like  gas  , and  oil,  a  gas  called  carbon  dioxide  , is  released  into  the  air.  There,  it  , reacts  with  water  vapor.  Some  of  the  , carbon  falls  back  to  Earth  as  rain.  , This  causes  the  level  of  carbon  in  the  , ocean  to  rise.  The  carbon  prevents  , oysters  and  clams  from  growing  thick,  , hard  shells.  It  also  hurts  coral.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174200Z" creationid="ansas" creationdate="20201207T174200Z">
+        <seg>عندما يحرق البشر أنواعًا من الوقود الأحفوري مثل الغاز والنفط ، يتم إطلاق غاز يسمى ثاني أكسيد الكربون في الهواء. هناك ، يتفاعل مع بخار الماء. بعض الكربون يتراجع إلى الأرض على شكل مطر. ، هذا يتسبب في ارتفاع مستوى الكربون في المحيطات. يمنع الكربون المحار والمحار من النمو قشور سميكة وصلبة. كما أنه يضر بالشعاب المرجانية.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wild  dogs  travel  in  groups  called  , packs.  These  packs  are  very  social,  , working  together  to  hunt,  raise  pups,  , and  share  food.  They  have  been  known  , to  take  care  of  sick  or  injured  pack  , members.  Wild  dogs  are  different  than  , stray  dogs.  A  stray  dog  was  once  a  , pet,  but  a  wild  dog  has  never  been  , domesticated.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T114346Z" creationid="ansas" creationdate="20201206T114346Z">
+        <seg>تسافر الكلاب البرية في مجموعات تسمى مجموعات. هذه العبوات اجتماعية للغاية ، وتعمل معًا للصيد وتربية الجراء ومشاركة الطعام. من المعروف أنهم يعتنون بحزمة المرضى أو المصابين. تختلف الكلاب البرية عن الكلاب الضالة. كان الكلب الضال في السابق حيوانًا أليفًا ، لكن الكلب البري لم يتم تدجينه أبدًا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ef  ef  lef  ref  left  left  refers&lt;span class="_enter"&gt; &lt;br/&gt;, rc  rc  irc  urc  aircraft  church  percent&lt;span class="_enter"&gt; &lt;br/&gt;, ia  ia  dia  sia  indian  asian  caspian&lt;span class="_enter"&gt; &lt;br/&gt;, sc  sc  isc  sci  science  discovered  , discovered&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T114953Z" creationid="ansas" creationdate="20201206T114953Z">
+        <seg>يشير ef ef lef ref left left RC RC irc URC الطائرات الكنيسة في المئة  ia ia ديا سيا الهندي الآسيوي القزويني  اكتشف ، اكتشف</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ef  ef  ref  eff  effect  refers  refer&lt;span class="_enter"&gt; &lt;br/&gt;, va  va  var  val  various  value  value&lt;span class="_enter"&gt; &lt;br/&gt;, gn  gn  ign  agn  signals  electromagnetic  , electromagnetic&lt;span class="_enter"&gt; &lt;br/&gt;, ia  ia  nia  sia  iranian  persian  iranian&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T105823Z" creationid="ansas" creationdate="20201206T105823Z">
+        <seg>يشير تأثير ef ref eff  va va var val قيمة مختلفة ، إشارات gn gn ign agn كهرومغناطيسية ، كهرومغناطيسية ia ia nia sia iranian الفارسية الإيرانية</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>energy  equals  mass  *  (multiplied  by)  , the  speed  of  light  2  (squared).  The  , multiplication  sign  is  usually  left  , out,  giving  e  is  equal  to  mc  2  , (squared).</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T115640Z" creationid="ansas" creationdate="20201206T115640Z">
+        <seg>الطاقة تساوي الكتلة * (مضروبة في) ، سرعة الضوء 2 (تربيع). عادة ما يتم ترك علامة الضرب ، خارج ، إعطاء ي يساوي م س 2 ، (تربيع).</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
